@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atheacks.github.io/sitemap
+Sitemap: https://atheacks.github.io/app/sitemap
+Sitemap: https://atheacks.github.io/assets/sitemap
+Sitemap: https://atheacks.github.io/css/sitemap
+Sitemap: https://atheacks.github.io/includes/sitemap
+Sitemap: https://atheacks.github.io/item/sitemap
+Sitemap: https://atheacks.github.io/src/sitemap
